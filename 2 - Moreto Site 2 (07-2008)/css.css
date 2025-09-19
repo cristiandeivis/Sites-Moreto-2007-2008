@@ -1,0 +1,39 @@
+.unnamed1 {
+	border-left-width: 9px;
+	border-left-style: solid;
+	border-left-color: #0099CC;
+}
+.unnamed2 {
+	border-right-width: 9px;
+	border-right-style: solid;
+	border-right-color: #0099CC;
+}
+.fundoeladotab {
+	border-bottom-width: 9px;
+	border-left-width: 9px;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-bottom-color: #0099CC;
+	border-left-color: #0099CC;
+}
+.esquerdaefundo {
+	border-right-width: 9px;
+	border-bottom-width: 9px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #0099CC;
+	border-bottom-color: #0099CC;
+}a:link {
+	color: #003366;
+}
+a:hover {
+	color: #FF0000;
+}
+.unnamed3 {
+	border-left-width: 9px;
+	border-left-style: none;
+	border-bottom-width: 9px;
+	border-bottom-style: solid;
+	border-bottom-color: #0099CC;
+
+}

@@ -1,0 +1,2 @@
+RedirectMatch .* http://bqhost.com.br/suspended.page/
+Options -Includes -Indexes -ExecCGI

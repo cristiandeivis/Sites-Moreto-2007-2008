@@ -1,0 +1,7 @@
+body {
+	background-image: url(fundo.gif);
+	background-repeat: no-repeat;
+}
+a:hover {
+	color: #FF0000;
+}
