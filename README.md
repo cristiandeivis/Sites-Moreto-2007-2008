@@ -1,6 +1,6 @@
 # Sites Moreto (2007–2008)
 
-Este repositório documenta duas versões do site institucional da Moreto Informática, empresa em que trabalhei até seu fechamento em 2025. As versões foram desenvolvidas entre 2007 e 2008, ambas oficialmente publicadas e hospedadas em servidor pago.  
+Este repositório documenta duas versões do site institucional da Moreto Informática, empresa em que trabalhei de 2007 até o seu fechamento em 2025. As versões foram desenvolvidas entre 2007 e 2008, ambas oficialmente publicadas e hospedadas em servidor pago.  
 Representam meus primeiros projetos institucionais em **produção real** utilizando PHP e MySQL, linguagem que comecei a estudar em julho/2007.
 
 ---
